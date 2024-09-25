@@ -29,6 +29,10 @@ function Header() {
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/table">Table</Nav.Link>
             <Nav.Link href="/video">Pricing</Nav.Link>
+
+
+
+            
           </Nav>
     </Container>
   </Navbar>
